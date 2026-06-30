@@ -80,7 +80,7 @@ This dashboard provides valuable insights into inventory and supplier performanc
 > **Inventory & Supplier Performance Dashboard**
 
 ```markdown
-![Inventory & Supplier Performance Dashboard](images/dashboard.png)
+(https://github.com/skmushraf/Supply-Chain-Inventory-Analysis/blob/main/dashboard%20Screenshot.png)
 ```
 
 ---
