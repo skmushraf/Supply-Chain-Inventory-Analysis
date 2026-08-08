@@ -75,13 +75,8 @@ This dashboard provides valuable insights into inventory and supplier performanc
 
 ---
 
-## 📷 Dashboard Preview
-
-> **Inventory & Supplier Performance Dashboard**
-
-```markdown
+## 📷 Dashboard Preview **Inventory & Supplier Performance Dashboard**
 (https://github.com/skmushraf/Supply-Chain-Inventory-Analysis/blob/main/dashboard%20Screenshot.png)
-```
 
 ---
 
